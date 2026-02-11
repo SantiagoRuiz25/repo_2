@@ -1,6 +1,8 @@
 # proyecto d uso de herramientas GIT con contribuyentes
 
+linea para generar conflicto rama erick
 
+linea para generar conflicto rama brayan
 
 ---
 ##tabla de contenido
@@ -44,4 +46,3 @@
 pasos para instalar el proyecto localmente
 ``` bash
 git clone https://github.com/maicolnore10-ops/repo_2.git
-

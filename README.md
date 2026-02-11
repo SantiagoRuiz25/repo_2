@@ -1,7 +1,15 @@
 # proyecto d uso de herramientas GIT con contribuyentes
 
-linea para generar conflicto rama erick
+
+<<<<<<< HEAD
 erick
+breve descripcion
+=======
+
+linea para generar conflicto rama brayan
+linea para generar conflicto rama erick
+
+>>>>>>> c1e9626a13028c0243887770c1b39d4765279f92
 ---
 ##tabla de contenido
 - [caracteristicas del proyecto](#caracteristicas-del-proyecto)
@@ -43,4 +51,8 @@ erick
 
 pasos para instalar el proyecto localmente
 ``` bash
+<<<<<<< HEAD
 git clone https://github.com/maicolnore10-ops/repo_2.git
+=======
+git clone https://github.com/maicolnore10-ops/repo_2.git
+>>>>>>> c1e9626a13028c0243887770c1b39d4765279f92
